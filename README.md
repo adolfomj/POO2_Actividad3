@@ -30,11 +30,11 @@ El proyecto está organizado bajo el patrón de diseño **MVC (Modelo - Vista - 
 
 ## Funcionalidades
 
-- ✅ Listar empleados  
-- ✅ Agregar empleados  
-- ✅ Eliminar empleados  
-- ✅ Validación de datos  
-- ✅ Ordenamiento con programación funcional (Streams)
+- Listar empleados  
+- Agregar empleados  
+- Eliminar empleados  
+- Validación de datos  
+- Ordenamiento con programación funcional (Streams)
 
 ---
 
@@ -53,11 +53,11 @@ El proyecto está organizado bajo el patrón de diseño **MVC (Modelo - Vista - 
 
 Puedes ver la explicación completa del proyecto en el siguiente enlace:
 
-👉 https://youtu.be/r7DUfBnG8fM
+https://youtu.be/r7DUfBnG8fM
 
 ---
 
-## ▶️ Ejecución del proyecto
+## Ejecución del proyecto
 
 1. Clonar el repositorio
 2. Abrir en NetBeans
